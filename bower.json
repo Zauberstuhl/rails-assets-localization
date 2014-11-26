@@ -5,7 +5,8 @@
   "authors": [
     "Lukas Matt <lukas@zauberstuhl.de>"
   ],
-  "description": "Rails assets helper for locale files",
+  "description": "Rails localization helper for asset files",
+  "main": "localization.min.js.erb",
   "moduleType": [
     "globals"
   ],
@@ -13,7 +14,6 @@
     "rails",
     "assets",
     "helper",
-    "locale",
     "localization"
   ],
   "license": "MIT",
